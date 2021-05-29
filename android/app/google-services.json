@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095388392914",
+    "project_id": "beautybook-38dd1",
+    "storage_bucket": "beautybook-38dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095388392914:android:cb9a5466732d63651eec0b",
+        "android_client_info": {
+          "package_name": "com.carlosalito.beautybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095388392914-cg5pfv08hr4og1k6jvk7sfk1tqagta44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carlosalito.beautybook",
+            "certificate_hash": "86a280cfc0199883dc97dc1019dccf9b5bba5565"
+          }
+        },
+        {
+          "client_id": "1095388392914-eukbnumf08r04a2deo44tobdq7rodffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpMKf-h7_o9zrNBo_ZdBl5FadsUni--bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095388392914-eukbnumf08r04a2deo44tobdq7rodffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
